@@ -1,4 +1,4 @@
-package com.jpontga.benchmark;
+package un0tec.benchmark;
 
 import org.perfidix.annotation.Bench;
 import org.perfidix.annotation.BenchClass;

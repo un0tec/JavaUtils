@@ -1,14 +1,14 @@
-package com.jpontga.benchmark;
+package un0tec.benchmark;
 
 import org.perfidix.*;
 import org.perfidix.ouput.*;
 import org.perfidix.result.*;
 
-public class Main {
+public class BenchMark {
 
 	/**
 	 * <p>
-	 * Execute to run BenchMark. See {@link com.jpontga.benchmark.Test} to modify benchmark.
+	 * Execute to run BenchMark. See {@link un0tec.benchmark.Test} to modify benchmark.
 	 * </p>
 	 * 
 	 * @param args

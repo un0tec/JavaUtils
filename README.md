@@ -1,5 +1,11 @@
-# Java BenchMark
+# JavaUtils
 
- Simple example to run benckmark in Java.  
+## # BenchMark
+
+ Simple example to run benchmark in Java.  
  
- Run Main.java as Java application to run benchmark.
+ Run BenchMark.java as Java application to run benchmark.
+
+## # Memory Analyzer
+
+ 
